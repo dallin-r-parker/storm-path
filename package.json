@@ -1,0 +1,15 @@
+{
+  "name": "stormpath",
+  "version": "1.0.0",
+  "description": "quick express app for using storm path credentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dallin parker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-stormpath": "^3.2.0"
+  }
+}
